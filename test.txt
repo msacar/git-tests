@@ -1,6 +1,6 @@
 first commit
 we made progress here in the fix/be-2417 branch
 we messed up after we merged second commit this is the third commit and its bad! 
-are we k ? 
-beta goes one step further 
+are we k ?
+main edited this beta goes one step further
 when beta goes one step main also goes another file
